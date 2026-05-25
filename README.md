@@ -1,6 +1,6 @@
 # Calestia Development Web
 
-landing page website for a development agency. Built with a focus on performance, clean code architecture, and smooth user interactions.
+landing page website for a development agency. Built with a focus on performance, clean code, and smooth ui.
 
 ## Tech Stack
 
