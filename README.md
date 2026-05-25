@@ -1,6 +1,6 @@
 # Calestia Development Web
 
-A modern, responsive landing page/portfolio website for a development agency. Built with a focus on performance, clean code architecture, and smooth user interactions.
+landing page website for a development agency. Built with a focus on performance, clean code architecture, and smooth user interactions.
 
 ## Tech Stack
 
